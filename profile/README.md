@@ -114,3 +114,8 @@ Caso deseje se candidatar como voluntário no  se inscreva no processo seletivo 
 
 <br>
 <br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/CS-CIS-Joint-UFPB/count.svg" />
+</p>

@@ -53,5 +53,22 @@ Ao se juntar ao nosso capítulo, os membros têm a oportunidade de:
 
 </details>
 
+## Como Participar
 
+<details>
+Se você está interessado em se envolver em um dos nossos departamentos acesse as nossas redes sociais ou entre em contato conosco:
+
+- Email: [cs.cis.ufpb@ieee.org](mailto:cs.cis.ufpb@ieee.org)
+- Site do Capítulo IEEE CS/CIS temporário: [IEEE-CS-CIS-UFPB](https://linktree.com/cs.ufpb)
+- Instagram: [@cs.cis.ieeeufpb](https://www.instagram.com/cs.cis.ieeeufpb/)
+- Linkedin: [Linkedin](https://www.linkedin.com/company/ieee-cs-cis-chapter-at-ufpb/)
+
+Caso deseje se candidatar como voluntário no  se inscreva no processo seletivo do ramo IEEE na UFPB e selecione o capítulo CS/CIS como sua opção:
+- Linktree: https://linktr.ee/ramoieee.ufpb
+- Instagram: [@ramoieee.ufpb](https://www.instagram.com/ramoieee.ufpb/)
+- Facebook: [ramoieee.ufpb](https://www.facebook.com/ramoieee.ufpb/)
+
+
+
+</details>
 

@@ -40,7 +40,7 @@ O Capítulo IEEE de Computação e Inteligência Computacional na UFPB é dedica
   - Colaboração com outros departamentos para promover eventos.
 
 
-### :fa-stumbleupon: Computationl Intelligence
+### Computationl Intelligence (new)
 - projetos relacionados a inteligência computacional.
 - atividades para desenvolvimento de portfolio em IA.
 - atividades para pesquisa e publicação acadêmica.

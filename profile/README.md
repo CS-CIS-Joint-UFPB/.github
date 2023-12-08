@@ -99,7 +99,7 @@ Caso deseje se candidatar como voluntário no  se inscreva no processo seletivo 
 
 <br>
 
-##### Grupo de Programação Competitiva com a Comunidade UFPB
+#### Grupo de Programação Competitiva com a Comunidade UFPB
 
 <div align="center">
 <a href="https://chat.whatsapp.com/Ht6p4y16cXX2viya6MCzEI" target="_blank">

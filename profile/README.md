@@ -1,4 +1,4 @@
-![Banner CS and CIS](/img/banner.png "Banner-CS-and-CIS")
+![Banner CS and CIS](https://github.com/CS-CIS-Joint-UFPB/.github/blob/main/profile/img/banner.png "Banner-CS-and-CIS")
 
 # Capítulo IEEE de Computação e Inteligência Computacional na UFPB
 
